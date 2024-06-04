@@ -4,15 +4,17 @@ Hi folks !
 
 
 🎓  [MY DIPLOMA] After a professional career change from the medias to web development, I have been recently certified RNCP level 2 which is the equivalent of an associate degree from Formation31.
-💻 [MY STACK] : 
-- HTML, CSS, BOOTSTRAP, TAILWIND, JAVASCRIPT, REACT JS.
-- JAVA, PHP, SQL, Firebase
+
+
+💻 [MY STACK] : - HTML, CSS, BOOTSTRAP, TAILWIND, JAVASCRIPT, REACT JS, JAVA, PHP, SQL, Firebase
+
+
 📂 [MY PROJECTS] I used to keep everything for myself and used to do local commits but it's time to do some changes. Among the projects I have done, my biggest ones are : 
 
 - A 2D MMORPG game [JAVA, MAVEN]    
-- A quizz game [JAVA]
+- A quizz game [JAVA, MAVEN]
 - Accomodation website [JS, PHP, SYMFONY, BOOTSTRAP,SQL]
-- A search engine [PHP,SYMFONY,BOOTSTRAP,SQL]
+- A search engine [PHP, SYMFONY, BOOTSTRAP,SQL]
 ---------------------------------------------------------------------
 - A dynamic chat messenger [REACT JS, FIREBASE]
 - A photo editor [REACT JS]
