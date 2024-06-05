@@ -1,7 +1,7 @@
 <!-- Basic profile -->
 ### Hi folks ! I'm Alexis
 
-👨‍💻 Web developer sharing my personal projets and constantly learning through errors and exceptions<br>
+👨‍💻 Web developer sharing some parts of my personal projets and constantly learning through errors and exceptions<br>
 📜 Certified Web dev and mobile RNCP level 5 ( Equivalent of an Associate degree ) from Formation31<br>
 🧠 Currently learning Java and React JS<br>
 
