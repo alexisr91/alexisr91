@@ -3,7 +3,7 @@
 
 👨‍💻 Web developer sharing some parts of my personal projets and constantly learning through errors and exceptions<br>
 📜 Certified Web dev and mobile RNCP level 5 ( Equivalent of an Associate degree ) from Formation31<br>
-🌏 I have worked for several months in Korea as a front-end developer<br>
+🌏 I have worked several months in Korea as a front-end developer<br>
 🧠 Currently learning Java and React JS<br>
 
 <!-- Statistics -->
