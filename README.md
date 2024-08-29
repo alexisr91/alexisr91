@@ -24,8 +24,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-🚀 Dive into my personal projects and follow my development journey ! If you're interested about future collaboration, hit me up on ramboarinaalexis@gmail.com<br>
-
+🚀 Dive into my personal projects and follow my development journey ! 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexisr91&theme=radical&no-frame=false&no-bg=false&margin-w=4)
